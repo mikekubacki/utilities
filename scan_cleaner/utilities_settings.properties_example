@@ -1,0 +1,4 @@
+SCAN_CLEANER_DIR="/Users/mkubacki/Pictures"
+LOG=$SCAN_CLEANER_DIR"/scan_cleaner.log"
+SCAN_CLEANER_FOLDER="Scans"
+SCAN_CLEANER_LS=*.pdf
